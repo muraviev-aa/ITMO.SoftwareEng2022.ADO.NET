@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.ADO.NET.Course2022.Lab4.Exercise6", "ITMO.ADO.NET.Course2022.Lab4.Exercise6\ITMO.ADO.NET.Course2022.Lab4.Exercise6.csproj", "{A12FC3CB-2D07-4E8F-A70A-4BD4D7790EE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A12FC3CB-2D07-4E8F-A70A-4BD4D7790EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A12FC3CB-2D07-4E8F-A70A-4BD4D7790EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A12FC3CB-2D07-4E8F-A70A-4BD4D7790EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A12FC3CB-2D07-4E8F-A70A-4BD4D7790EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EC76FDA-FA3F-4E37-B4E8-191C9C520E9C}
+	EndGlobalSection
+EndGlobal
