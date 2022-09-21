@@ -1,7 +1,7 @@
 # ITMO.SoftwareEng2022.ADO.NET
 <ins>ИТМО 2022. Разработка приложений в Microsoft ADO.NET</ins>
 
-<strong> Состав репозитория: </strong>
+***Состав репозитория:***
 
  <strong>1. &#128194; Lab1. </strong>
 Практическое занятие 1 (упражнения 1, 2, 3, 4, 5). 	
@@ -24,6 +24,11 @@
 
 <strong>6. &#128194; Зачетное задание ADO.NET: </strong> 
     
-<strong>&#128448; FinalWork:</strong> настольное Windows-приложение FinalWork.
+<strong>&#128448; FinalWork:</strong> настольное Windows-приложение FinalWork. 
+```diff
+- login: admin
+- password: admin
+! сервер LocalDb
+```
 
 <strong>&#128448; DB:</strong> файлы базы данных.
