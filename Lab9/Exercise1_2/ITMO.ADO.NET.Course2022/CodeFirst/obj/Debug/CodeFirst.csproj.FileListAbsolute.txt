@@ -1,0 +1,12 @@
+E:\ITMO\ADO_NET\Lab9\ITMO.ADO.NET.Course2022\CodeFirst\bin\Debug\CodeFirst.dll.config
+E:\ITMO\ADO_NET\Lab9\ITMO.ADO.NET.Course2022\CodeFirst\bin\Debug\CodeFirst.dll
+E:\ITMO\ADO_NET\Lab9\ITMO.ADO.NET.Course2022\CodeFirst\bin\Debug\CodeFirst.pdb
+E:\ITMO\ADO_NET\Lab9\ITMO.ADO.NET.Course2022\CodeFirst\bin\Debug\EntityFramework.dll
+E:\ITMO\ADO_NET\Lab9\ITMO.ADO.NET.Course2022\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+E:\ITMO\ADO_NET\Lab9\ITMO.ADO.NET.Course2022\CodeFirst\bin\Debug\EntityFramework.xml
+E:\ITMO\ADO_NET\Lab9\ITMO.ADO.NET.Course2022\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+E:\ITMO\ADO_NET\Lab9\ITMO.ADO.NET.Course2022\CodeFirst\obj\Debug\CodeFirst.csproj.AssemblyReference.cache
+E:\ITMO\ADO_NET\Lab9\ITMO.ADO.NET.Course2022\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+E:\ITMO\ADO_NET\Lab9\ITMO.ADO.NET.Course2022\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+E:\ITMO\ADO_NET\Lab9\ITMO.ADO.NET.Course2022\CodeFirst\obj\Debug\CodeFirst.dll
+E:\ITMO\ADO_NET\Lab9\ITMO.ADO.NET.Course2022\CodeFirst\obj\Debug\CodeFirst.pdb

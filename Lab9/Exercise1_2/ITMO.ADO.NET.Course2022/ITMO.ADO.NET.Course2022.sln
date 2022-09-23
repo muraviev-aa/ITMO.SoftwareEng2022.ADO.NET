@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.ADO.NET.Course2022.Lab9.Exercise1_2", "ITMO.ADO.NET.Course2022.Lab9.Exercise1_2\ITMO.ADO.NET.Course2022.Lab9.Exercise1_2.csproj", "{DEFDC016-788E-4312-9DC2-D7869BEC417A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirst", "CodeFirst\CodeFirst.csproj", "{F7107954-A2EF-4A54-9724-E57B71D998AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEFDC016-788E-4312-9DC2-D7869BEC417A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFDC016-788E-4312-9DC2-D7869BEC417A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFDC016-788E-4312-9DC2-D7869BEC417A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFDC016-788E-4312-9DC2-D7869BEC417A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7107954-A2EF-4A54-9724-E57B71D998AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7107954-A2EF-4A54-9724-E57B71D998AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7107954-A2EF-4A54-9724-E57B71D998AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7107954-A2EF-4A54-9724-E57B71D998AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DAA546F-7CA3-4C14-8E90-809D3E1CF67B}
+	EndGlobalSection
+EndGlobal
