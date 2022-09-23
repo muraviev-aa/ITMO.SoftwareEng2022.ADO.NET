@@ -14,17 +14,17 @@
 <strong>3. &#128194; Lab4. </strong> 
 Практическое занятие 4:
 
-+ <strong>&#128448; Exercise1:</strong> упражнение 1;
++ <strong>&#128448; Exercise1</strong> (упражнение 1);
 
-+ <strong>&#128448; Exercise2:</strong> упражнение 2;
++ <strong>&#128448; Exercise2</strong> (упражнение 2);
 
-+ <strong>&#128448; Exercise3:</strong> упражнение 3;
++ <strong>&#128448; Exercise3</strong> (упражнение 3);
 
-+ <strong>&#128448; Exercise4:</strong> упражнение 4;
++ <strong>&#128448; Exercise4</strong> (упражнение 4);
 
-+ <strong>&#128448; Exercise5:</strong> упражнение 5;
++ <strong>&#128448; Exercise5</strong> (упражнение 5);
 
-+ <strong>&#128448; Exercise6:</strong> упражнение 6.
++ <strong>&#128448; Exercise6</strong> (упражнение 6).
 
 <strong>4. &#128194; Lab7. </strong> 
 Практическое занятие 7 (упражнения 1, 2, 3).
@@ -33,9 +33,9 @@
 <strong>5. &#128194; Lab9. </strong> 
 Практическое занятие 9:
 
-+ <strong>&#128448; Exercise1,2:</strong> упражнение 1 и 2. &#128452; Упражнения 1 и 2 выполнены в одном проекте.
++ <strong>&#128448; Exercise1,2</strong> (упражнение 1 и 2). &#128452; Упражнения 1 и 2 выполнены в одном проекте.
 
-+ <strong>&#128448; Exercise3:</strong> упражнение 3.
++ <strong>&#128448; Exercise3</strong> (упражнение 3).
 
 <strong>6. &#128194; Зачетное задание ADO.NET: </strong> 
     
