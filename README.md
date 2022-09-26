@@ -1,6 +1,7 @@
-## ITMO.SoftwareEng2022.ADO.NET
-### ИТМО 2022. Разработка приложений в Microsoft ADO.NET
+## ITMO.SoftwareEng2022.ADO.NET     
+<img src="http://guttitech.com/phpfusion/infusions/video/images/ado_net.jpg">
 
+### ИТМО 2022. Разработка приложений в Microsoft ADO.NET
 ***Состав репозитория:***
 
  <strong>1. &#128194; Lab1. </strong>
