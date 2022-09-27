@@ -34,9 +34,9 @@
 
 + <strong>&#128448; Exercise4. </strong> Программное создание объекта DataAdapter;
 
-+ <strong>&#128448; Exercise5</strong> Обработка данных в DataTable;
++ <strong>&#128448; Exercise5. </strong> Обработка данных в DataTable;
 
-+ <strong>&#128448; Exercise6</strong> Создание и использование объектов DataView.
++ <strong>&#128448; Exercise6. </strong> Создание и использование объектов DataView.
 
 <strong>4. &#128194; Lab7. Практическое занятие 7. </strong> 
 
