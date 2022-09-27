@@ -26,17 +26,17 @@
 
 **Создание объектов DataSet:**
 
-+ <strong>&#128448; Exercise1. </strong> Упражнение 1. Использование DataSet Designer для создания DataSet;
++ <strong>&#128448; Exercise1. </strong> Использование DataSet Designer для создания DataSet;
 
-+ <strong>&#128448; Exercise2. </strong> Упражнение 2. Создание объектов DataTable;
++ <strong>&#128448; Exercise2. </strong> Создание объектов DataTable;
 
-+ <strong>&#128448; Exercise3. </strong> Упражнение 3. Создание объектов DataAdapter;
++ <strong>&#128448; Exercise3. </strong> Создание объектов DataAdapter;
 
-+ <strong>&#128448; Exercise4. </strong> Упражнение 4. Программное создание объекта DataAdapter;
++ <strong>&#128448; Exercise4. </strong> Программное создание объекта DataAdapter;
 
-+ <strong>&#128448; Exercise5</strong> Упражнение 5. Обработка данных в DataTable;
++ <strong>&#128448; Exercise5</strong> Обработка данных в DataTable;
 
-+ <strong>&#128448; Exercise6</strong> Упражнение 6. Создание и использование объектов DataView.
++ <strong>&#128448; Exercise6</strong> Создание и использование объектов DataView.
 
 <strong>4. &#128194; Lab7. Практическое занятие 7. </strong> 
 
