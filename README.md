@@ -57,9 +57,10 @@
 + <strong>&#128448; Exercise3. </strong> Построение EDM для работы с базой данных.
 
 <strong>6. &#128194; Зачетное задание ADO.NET: </strong> 
-    
- + <strong>&#128448; FinalWork:</strong> настольное Windows-приложение FinalWork. 
+
  + <strong>&#128448; DB:</strong> файлы базы данных.
+ + <strong>&#128448; FinalWork:</strong> настольное Windows-приложение FinalWork. 
+
 ```diff
 login: admin
 password: admin
