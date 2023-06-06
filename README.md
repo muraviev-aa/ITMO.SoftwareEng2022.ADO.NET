@@ -3,7 +3,10 @@
 ## ITMO.SoftwareEng2022.ADO.NET
 <a name="readme-top"></a>
 ### ИТМО 2022. Разработка приложений в Microsoft ADO.NET
+
+<p align="center">
 <img src="https://ic.wampi.ru/2022/09/28/333.jpg" alt="drawing" width="700"/>
+</p>
 
 ***Состав репозитория:***
 
